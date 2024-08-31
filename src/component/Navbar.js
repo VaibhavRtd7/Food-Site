@@ -15,7 +15,7 @@ const navbar = ({ filterItem, menuList }) => {
             );
           })}
         </div>
-      </nav>
+      </nav>  
     </>
   );
 };
