@@ -15,7 +15,7 @@ The primary aim of this project is to practice and understand how the `filter` a
 
 ## 🚀 Live Demo
 
-[Live Demo Link](#) (Add your live demo link here)
+[Live Demo Link](#) 
 
 ## 🛠️ Technologies Used
 
@@ -24,3 +24,26 @@ The primary aim of this project is to practice and understand how the `filter` a
 - **Static Data**: Using static data to showcase the menu items.
 
 ## 📂 Project Structure
+
+src/ │
+ ├── components/ 
+    ├──Bascis
+    |      ├── MenuCard.js # Component to display each menu item
+    |      ├── menuApi.js # Static data file containing the menu items
+    |      ├── Restaurant.js # Main component handling state and rendering the menu 
+    |      └── style.css # CSS file for styling the components
+    | 
+    ├── Navbar.js/ # Folder containing images for the menu items 
+
+
+## 📸 Screenshots
+
+![Food Menu](#) (Add a screenshot of your app here)
+*An example of the menu page displaying all items.*
+
+## 📝 How to Run the Project
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/VaibhavRtd7/food-menu-website.git 
